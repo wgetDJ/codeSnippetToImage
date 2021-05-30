@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #111111;
+    color: #eeeeee;
+    font-size: 16px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.content {
+    width: 90vw;
+    min-width: 1000px;
+    max-width: 1000px;
+    margin: 100px auto;
+}
+
+.header {
+    text-align: center;
+}
+.logo h1 {
+    font-family: 'Space Mono', monospace;
+    font-size: 1.5rem;
+    letter-spacing: .2rem;
+    text-transform: uppercase;
+    margin: 0;
+    font-weight: 500;
+}
+.about {
+    margin-top: 20px;
+}
+.about p {
+    font-size: 1.2rem;
+    letter-spacing: .1rem;
+}
+
+.editor {
+    margin-top: 100px;
+    width: 1000px;
+    background-color: black;
+    display: grid;
+    grid-template-rows: auto auto;
+    border: 10px solid #333333;
+}
+.editor .edit {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+}
+.editor .codeSnippet {
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    padding: 100px;
+    display: grid;
+    grid-template-rows: auto auto;
+}
+
+.mac {
+    display: grid;
+    grid-template-columns: 15px 15px 15px 1fr;
+    grid-gap: 20px;
+    background-color: #111111;
+    padding: 20px 0 0 20px;
+    border-radius: 10px 10px 0 0;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12),
+                0 2px 2px rgba(0, 0, 0, 0.12),
+                0 4px 4px rgba(0, 0, 0, 0.12),
+                0 8px 8px rgba(0, 0, 0, 0.12),
+                0 16px 16px rgba(0, 0, 0, 0.12);
+}
+
+.mac div {
+    height: 15px;
+    border-radius: 50%;
+}
+
+.mac #red {
+    background-color: #f05c54;
+}
+.mac #yellow {
+    background-color: #fbbd30;
+}
+.mac #green {
+    background-color: #65ca41;
+}
+
+.code {
+    background-color: #111111;
+    padding: 0 0 0 20px;
+    border-radius: 0 0 10px 10px;
+}
+
+element.style {
+}
+.hljs { 
+    background-color: #111111 !important;
+}

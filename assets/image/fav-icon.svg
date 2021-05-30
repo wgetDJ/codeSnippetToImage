@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="53.181248mm"
+   height="53.181248mm"
+   viewBox="0 0 53.181248 53.181248"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   sodipodi:docname="fav-icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.42760943"
+     inkscape:cx="216.3189"
+     inkscape:cy="362.48031"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       originx="-47.49271"
+       originy="-52.784377" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect861"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.492709,-52.784375)">
+    <path
+       style="fill:#87decd;stroke:#87decd;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 74.083332,52.916666 c -6.926775,0 -13.810896,2.851496 -18.708866,7.749466 -4.89797,4.89797 -7.749466,11.782091 -7.749466,18.708866 0,6.926775 2.851496,13.810896 7.749466,18.708866 4.89797,4.897966 11.782091,7.749466 18.708866,7.749466 6.926775,0 13.810896,-2.8515 18.708866,-7.749466 4.89797,-4.89797 7.749462,-11.782091 7.749462,-18.708866 0,-6.926775 -2.851492,-13.810896 -7.749462,-18.708866 -4.89797,-4.89797 -11.782091,-7.749466 -18.708866,-7.749466 z"
+       id="path859"
+       inkscape:path-effect="#path-effect861"
+       inkscape:original-d="m 74.083332,52.916666 c -2.64e-4,-17.639154 2.65e-4,35.278041 0,52.916664 -2.64e-4,17.63863 2.65e-4,-35.27751 0,-52.916664 z" />
+  </g>
+</svg>
